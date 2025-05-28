@@ -65,3 +65,5 @@ STAFF_ROLE_ID = 2222222222222222222         # Remplace par l’ID du rôle Staff
 SUPPORT_ROLE_ID = 3333333333333333333       # Remplace par l’ID du rôle Support
 
 TOKEN = "NzI4MTIzNDU2Nzg5MTIzNDY1.XyZ_ABC12345dEfGhIjKlMnOpQrStUvWxYz"  # Remplace par ton vrai token Discord
+
+**merci a maxou2022 qui ma donnée l'idée de faire ce projet**
