@@ -35,10 +35,7 @@ Les permissions sont gérées :
    - `bot`  
    - `applications.commands`  
 3. Dans "Bot Permissions", coche :  
-   - `Manage Roles`  
-   - `Read Messages/View Channels`  
-   - `Send Messages`  
-   - `Use Slash Commands`  
+   - `adminstrateur`
 4. Copie l’URL générée, ouvre-la dans un navigateur  
 5. Invite le bot sur ton serveur Discord
 
