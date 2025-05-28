@@ -1,4 +1,4 @@
-# Bot Discord de gestion des rôles
+ez e# Bot Discord de gestion des rôles
 
 Ce bot permet d’attribuer des rôles (`Super Admin`, `Staff`, `Support`) à des membres via des commandes slash.  
 Les permissions sont gérées :  
@@ -64,3 +64,4 @@ SUPPORT_ROLE_ID = 3333333333333333333       # Remplace par l’ID du rôle Suppo
 TOKEN = "NzI4MTIzNDU2Nzg5MTIzNDY1.XyZ_ABC12345dEfGhIjKlMnOpQrStUvWxYz"  # Remplace par ton vrai token Discord
 
 **merci a maxou2022 qui ma donnée l'idée de faire ce projet**
+**ce bot est open source donc vous pouvez le modifier comme vous voulez et le republier en un nouveau fork**
