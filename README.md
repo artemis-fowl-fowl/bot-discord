@@ -1,4 +1,4 @@
-ez e# Bot Discord de gestion des rôles
+# Bot Discord de gestion des rôles
 
 Ce bot permet d’attribuer des rôles (`Super Admin`, `Staff`, `Support`) à des membres via des commandes slash.  
 Les permissions sont gérées :  
